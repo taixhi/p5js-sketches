@@ -1,0 +1,9 @@
+html, body, div {
+  height: 100%;
+  margin: 2em;
+  background-color: #F5F5DC
+}
+
+h1, h3 {
+	float: none;
+}
